@@ -1,4 +1,4 @@
-# Intelligent-Enterprise-Assistant
+# Intelligent-Enterprise-Assistant - Hackthon
 An AI-powered virtual assistant designed to help the public sector work smarter. It automates tasks like document search, policy answering, leave requests, and helpdesk support — all through natural conversation.
 # Overview
 The Intelligent Enterprise Assistant acts as a smart FAQ chatbot for organizational use.
