@@ -235,7 +235,7 @@ Step 4: Open in Browser
 Open your browser and navigate to the address: http://127.0.0.1:5000/
 
 # OUTPUT 
-<img width="1917" height="1017" alt="image" src="https://github.com/user-attachments/assets/76d3ea95-d0f4-4043-9fd5-458cc4cd280a" />
+<img width="1919" height="1017" alt="image" src="https://github.com/user-attachments/assets/b8236d3c-0dfb-4dc2-9be0-bc73c9b18442" />
 
 # RESULT:
 Thus the Chatbot is executed Successfully.
